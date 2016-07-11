@@ -1,0 +1,19 @@
+
+.article_1 {
+  width: 30%;
+  border: 1px solid lightblue;
+}
+header {
+  border: 1px dotted lightgrey;
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+  padding: 10px;
+}
+
+.available_ {
+  background-color: #A6A6A6;
+  color: #FFEA00;
+}
