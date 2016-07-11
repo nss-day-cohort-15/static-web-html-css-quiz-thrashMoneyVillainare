@@ -2,8 +2,26 @@
 .article_1 {
   width: 30%;
   border: 1px solid lightblue;
-
+  margin: 2.5%;
+  float: left;
 }
+
+.article_2 {
+  width: 30%;
+  border: 1px solid lightblue;
+  margin: 2.5% 1.25% 2.5% 0;
+  display: inline-block;
+  float: center;
+}
+
+.article_3 {
+  width: 30%;
+  border: 1px solid lightblue;
+  margin: 2.5% 2.5% 2.5% 0;
+  display: inline-block;
+  float: right;
+}
+
 .title_ {
   border: 1px dotted lightgrey;
   text-align: center;
@@ -17,4 +35,10 @@
 .available_ {
   background-color: #A6A6A6;
   color: #FFEA00;
+}
+
+.description {
+  text-align: justify;
+  margin: 5%;
+  font-family: Roboto, sans-serif;
 }
