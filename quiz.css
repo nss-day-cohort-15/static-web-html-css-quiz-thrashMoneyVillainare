@@ -32,13 +32,61 @@
   padding: 10px;
 }
 
+img {
+  /**width: 224px; **/
+  height: auto;
+  /**max-width: 224px; **/
+  width: 25vw;
+}
+
 .available_ {
-  background-color: #A6A6A6;
+  line-height: 2em;
+  background-color: #7A7C7D;
   color: #FFEA00;
+  font-family: Roboto, sans-serif;
+  font-weight: 800;
 }
 
 .description {
   text-align: justify;
   margin: 5%;
   font-family: Roboto, sans-serif;
+  font-size: 1.2em;
 }
+.spec_price {
+  font-weight: 600;
+  text-align: justify;
+  font-family: Roboto, sans-serif;
+  font-size: 1.4em;
+  margin-left: 5px;
+}
+
+.fine_print {
+  font-size: .75em;
+  margin-top: 2px;
+  font-family: Roboto, sans-serif;
+}
+
+.size_weight {
+  font-weight: 900;
+  font-family: Roboto, sans-serif;
+  font-size: 1em;
+  margin: 0 0px -1px 15px;
+
+}
+
+.prices {
+font-weight: 900;
+  font-family: Roboto, sans-serif;
+  font-size: 1em;
+  margin: 0 0px -1px 15px;
+
+}
+
+
+
+
+
+
+
+
