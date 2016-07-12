@@ -17,7 +17,29 @@
 .article_3 {
   width: 30%;
   border: 1px solid lightblue;
-  margin: 2.5% 2.5% 2.5% 0;
+  margin: 2.5% 1.25% 1.25% 0;
+  display: inline-block;
+  float: right;
+}
+.article_4 {
+  width: 30%;
+  border: 1px solid lightblue;
+  margin: 2.5%;
+  float: left;
+}
+
+.article_5 {
+  width: 30%;
+  border: 1px solid lightblue;
+  margin: 2.5% 1.25% 2.5% 0;
+  display: inline-block;
+  float: center;
+}
+
+.article_6 {
+  width: 30%;
+  border: 1px solid lightblue;
+  margin: 2.5% 1.25% 1.25% 0;
   display: inline-block;
   float: right;
 }
